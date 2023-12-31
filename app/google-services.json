@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "521661115844",
+    "project_id": "baseprojet-2d218",
+    "storage_bucket": "baseprojet-2d218.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521661115844:android:851b52d992cf91e2ab4891",
+        "android_client_info": {
+          "package_name": "com.isettozeur.projet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK13lPOJr4k1iH8vFR4wFe6tWzU1Lckd8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
